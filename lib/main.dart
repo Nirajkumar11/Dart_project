@@ -16,7 +16,6 @@ class MyApp extends StatefulWidget {
 class MyState extends State<MyApp> {
   @override
   Widget build(BuildContext context) {
-    // TODO: implement build
     return MaterialApp(
       theme: ThemeData(primaryColor: Colors.redAccent),
       debugShowCheckedModeBanner: false,
